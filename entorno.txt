@@ -1,0 +1,27 @@
+______________JAVA______________
+
+C:\Users\purru>java --version
+java 17.0.12 2024-07-16 LTS
+Java(TM) SE Runtime Environment (build 17.0.12+8-LTS-286)
+Java HotSpot(TM) 64-Bit Server VM (build 17.0.12+8-LTS-286, mixed mode, sharing)
+
+______________MAVEN______________
+
+C:\Users\purru>mvn -v
+Apache Maven 3.9.9 (8e8579a9e76f7d015ee5ec7bfcdc97d260186937)
+Maven home: C:\Program Files\Maven\apache-maven-3.9.9
+Java version: 17.0.12, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-17
+Default locale: es_ES, platform encoding: Cp1252
+OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
+
+______________VS Code______________
+
+C:\Users\purru>code --help
+Visual Studio Code 1.95.3
+
+______________IntelliJ______________
+
+C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\bin>idea.bat --version
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+IntelliJ IDEA 2023.3.5 (Community Edition)
+Build #IC-233.14808.21
